@@ -12,3 +12,6 @@ https://stevex24.github.io/quantum-cybersecurity-readiness/
 
 🔗 PDF guide:  
 (link to Payhip page)
+🔗 PDF guide:  
+[Quantum Cybersecurity: A Practical Readiness Guide](https://payhip.com/b/pQSCn)
+
