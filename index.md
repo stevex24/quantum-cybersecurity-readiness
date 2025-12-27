@@ -39,7 +39,18 @@ One of the goals of the guide is to point readers toward high-quality learning r
 The PDF guide is available here:
 
 **Quantum Cybersecurity: A Practical Readiness Guide**  
-→ *(link to your Payhip product page)*
+→ https://payhip.com/b/pQSCn
+
+## FAQ
+
+**Do quantum computers already break modern encryption?**  
+No. Current quantum systems cannot break widely deployed cryptography at scale, but long-term planning is required due to migration timelines and data longevity.
+
+**Who should think about post-quantum cryptography now?**  
+Organizations with long-lived data, complex infrastructure, or regulatory obligations benefit most from early readiness planning.
+
+**Is this guide technical?**  
+It is written for technically literate readers and decision-makers, but it does not require a background in quantum mechanics or cryptographic research.
 
 ---
 
