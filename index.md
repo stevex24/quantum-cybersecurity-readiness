@@ -4,7 +4,7 @@ Quantum computers already exist, and they continue to improve. At the same time,
 
 The challenge posed by quantum computing is not an immediate collapse of digital security, but a long-term transition problem. Cryptographic infrastructure changes slowly, sensitive data often requires decades of confidentiality, and large organizations cannot migrate core systems overnight. For these reasons, quantum cybersecurity is best understood as a readiness and planning issue rather than a cause for alarm.
 
-# Post-Quantum Cryptography and Security Planning
+## Post-Quantum Cryptography and Security Planning
 
 ## What Changes — and What Does Not
 
